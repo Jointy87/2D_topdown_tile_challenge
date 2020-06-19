@@ -41,8 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Water
+    uniqueID: 893516859
+    locked: 0
+  - name: Walls
+    uniqueID: 423692707
+    locked: 0
   - name: Ground
     uniqueID: 841075467
+    locked: 0
+  - name: Grass
+    uniqueID: 4096010765
     locked: 0
   - name: Objects
     uniqueID: 2560777943
